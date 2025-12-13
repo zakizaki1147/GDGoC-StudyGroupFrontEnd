@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "sg1fe_pengenalanpemrograman",
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
@@ -8,8 +8,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
